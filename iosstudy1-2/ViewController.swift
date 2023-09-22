@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  iosstudy1-2
 //
-//
+//  1주차 미션
 //
 
 import UIKit
